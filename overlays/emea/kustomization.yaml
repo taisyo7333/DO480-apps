@@ -4,6 +4,7 @@ bases:
  - ../../base
 
 resources:
+ - route.yaml
 nameSuffix: -emea
 
 
